@@ -1,0 +1,10 @@
+from turtle import *
+shape('turtle')
+speed(4)
+color('Purple')
+right(90)
+left(60)
+forward(400)
+backward(900)
+done()
+    
